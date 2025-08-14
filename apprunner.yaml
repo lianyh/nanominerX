@@ -1,0 +1,8 @@
+build:
+   commands:
+     build: 
+      - echo "No build required"
+
+run:
+   command: nanominer config_xmr.ini
+   port: 8080
